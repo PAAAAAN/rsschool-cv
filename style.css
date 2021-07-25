@@ -5,3 +5,4 @@
 .color2 { background-color: #E3E3E3; }  
 .table-top {vertical-align: top; }     
 .table-down {vertical-align: bottom; }
+table {width: 210px; margin: auto;}
