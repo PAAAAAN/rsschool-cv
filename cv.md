@@ -1,4 +1,4 @@
-![My foto](/pictures/Foto.png)
+![My foto](/pictures/Foto187.png)
 
 # Aleksandr Postyko
 ## Contact details:
